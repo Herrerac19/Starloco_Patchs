@@ -1,1 +1,2 @@
 • Les conditions de la quete "172 - Mes premières armes" non fonctionnel 
+- MountParks bug when unequip dindes!
